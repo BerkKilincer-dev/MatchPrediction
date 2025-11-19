@@ -1,0 +1,5 @@
+{
+  "name": "MatchMind AI",
+  "description": "An advanced sports prediction engine using Google Gemini 2.5 Flash with Search Grounding to analyze real-time data from sources like Mackolik and predict match outcomes with machine learning precision.",
+  "requestFramePermissions": []
+}
