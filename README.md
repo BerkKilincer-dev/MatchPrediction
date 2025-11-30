@@ -230,4 +230,3 @@ Sorularınız için issue açabilir veya pull request gönderebilirsiniz.
 
 **⚠️ Yasal Uyarı**: Bu uygulama eğlence amaçlıdır. Tahminler garanti değildir ve bahis kararlarında kullanılmamalıdır. Sorumluluk kullanıcıya aittir.
 
-**Made with ❤️ and AI**
