@@ -1,8 +1,5 @@
 # ⚽ MatchMind.AI - Akıllı Maç Tahmin Platformu
 
-<div align="center">
-  <img width="100%" alt="MatchMind AI Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
 
 ## 🎯 Proje Hakkında
 
